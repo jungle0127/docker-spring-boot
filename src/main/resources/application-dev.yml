@@ -1,0 +1,7 @@
+server:
+  port: 8484
+  servlet:
+    context-path: /spring-boot
+spring:
+  application:
+    name: docker-springboot-helloworld
